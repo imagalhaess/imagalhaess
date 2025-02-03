@@ -6,18 +6,20 @@ Sou engenheira civil de formação, apaixonada por tecnologia e atualmente em tr
 - 💻 Atualmente estudando **Python**, **Data Science** e **Desenvolvimento de Software**
 - 📍 Experiência com **gestão de projetos**, **desenvolvimento backend**, **inteligência artificial**, **análise de dados**, **UX Design** e **automação de processos**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imagalhaess&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imagalhaess&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=vision-friendly-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=imagalhaess&count_private=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=imagalhaess&layout=compact&theme=vision-friendly-dark&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Isa-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Isa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Isa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Isa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Isa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
   
   ##
  
