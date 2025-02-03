@@ -4,7 +4,7 @@ Sou engenheira civil de formação, apaixonada por tecnologia e atualmente em tr
 - 🎓 Formada em **Engenharia Civil** e pós-graduada em **Gestão Ágil** e **Business Intelligence**
 - 🙂 Pronomes: ela/dela
 - 💻 Atualmente estudando **Python**, **Data Science** e **Desenvolvimento de Software**
-- 📍 Experiência com **gestão de projetos**, **desenvolvimento backend**, **inteligência artificial**, **análise de dados**, **UX Design** e **automação de processos**
+- 📍 Conhecimento em **gestão de projetos**, **desenvolvimento backend**, **inteligência artificial**, **análise de dados**, **UX Design** e **automação de processos**
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=imagalhaess&count_private=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=imagalhaess&layout=compact&theme=vision-friendly-dark&hide_border=false" height="150" alt="languages graph" />
