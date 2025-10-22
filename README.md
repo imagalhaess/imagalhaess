@@ -2,12 +2,8 @@
 
 Sou **desenvolvedora backend** com foco em **Python e Django**, apaixonada por criar soluções que unem **automação**, **dados** e **inteligência artificial**.  
 
-🎯 **Pronomes:** ela/dela  
-💻 Atualmente trabalho com **backend em Python/Django**, **APIs RESTful**, **webhooks**, **integrações com IA** e **PostgreSQL**, sempre buscando melhorar o **desempenho**, a **segurança** e a **legibilidade do código**.  
-🧠 Conhecimento em **desenvolvimento full stack**, com foco em backend (**Python, Django, Flask**) e experiência em frontend com **React** e **TypeScript**.  
-🚀 Atuo com **automação de processos**, **integrações inteligentes** e **boas práticas de desenvolvimento**, sempre em busca de soluções eficientes e escaláveis.  
-
----
+Atualmente trabalho com **backend em Python/Django**, **APIs RESTful**, **webhooks**, **integrações com IA** e **PostgreSQL**, sempre buscando melhorar o **desempenho**, a **segurança** e a **legibilidade do código**.  
+Conhecimento em **desenvolvimento full stack**, com foco em backend (**Python, Django, Flask**) e experiência em frontend com **React** e **TypeScript**.  
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=imagalhaess&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
