@@ -10,8 +10,8 @@ Sou **desenvolvedora backend** com foco em **Python e Django**, apaixonada por c
 ---
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=imagalhaess&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imagalhaess&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=imagalhaess&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imagalhaess&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
