@@ -1,10 +1,12 @@
-## Oiii eu sou a Isabela Mattos 👋
+## 👋 Oi, eu sou a Isabela Mattos  
 
-Sou engenheira civil de formação, apaixonada por tecnologia e atualmente em transição de carreira para a área. 🚀
-- 🎓 Formada em **Engenharia Civil** e pós-graduada em **Gestão Ágil** e **Business Intelligence**
-- 🙂 Pronomes: ela/dela
-- 💻 Atualmente estudando **Python**, **Data Science** e **Desenvolvimento de Software**
-- 📍 Conhecimento em **gestão de projetos**, **desenvolvimento backend**, **inteligência artificial**, **análise de dados**, **UX Design** e **automação de processos**
+Sou **desenvolvedora backend** com foco em **Python e Django**, apaixonada por criar soluções que unem **automação**, **dados** e **inteligência artificial**.  
+
+🎯 **Pronomes:** ela/dela  
+💻 Atualmente trabalho com **backend em Python/Django**, **APIs RESTful**, **webhooks**, **integrações com IA** e **PostgreSQL**, sempre buscando melhorar o **desempenho**, a **segurança** e a **legibilidade do código**.  
+🧠 Conhecimento em **desenvolvimento full stack**, com foco em backend (**Python, Django, Flask**) e experiência em frontend com **React** e **TypeScript**.  
+🚀 Atuo com **automação de processos**, **integrações inteligentes** e **boas práticas de desenvolvimento**, sempre em busca de soluções eficientes e escaláveis.
+
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=imagalhaess&count_private=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=imagalhaess&layout=compact&theme=vision-friendly-dark&hide_border=false" height="150" alt="languages graph" />
