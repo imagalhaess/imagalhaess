@@ -1,49 +1,70 @@
-## 👋 Hi, I'm Isabela Mattos
+<div align="center">
 
-I'm a **backend developer** focused on **Java, Python, and Node.js**, passionate about creating solutions that combine **automation**, **data**, and **artificial intelligence**.
+# 👋 Hi, I'm Isabela Magalhães (`@imagalhaess`)
 
-Currently working as **Java Backend Developer Jr at NTT Data**, with experience in **Python/Django**, **Node.js/Express**, **RESTful APIs**, **webhooks**, **AI integrations**, and **PostgreSQL**, always seeking to improve **performance**, **security**, and **code readability**.
+**Software Developer | Java & Spring Ecosystem • Python • AppSec & AI Automation**
 
-Knowledge in **full stack development**, with backend focus (**Java, Python, Django, Flask, Node.js, Express**) and frontend experience with **React** and **TypeScript**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-isabela--mmc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-mmc/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://isabela-folio-showcase.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magalhaes569@gmail.com)
+
+</div>
+
+---
+
+### 🌎 About Me | Sobre Mim
+
+**🇺🇸 EN:**
+Software Developer with an Engineering background, primarily focused on **Java (Spring Boot)** and **Python** backend development, building resilient, secure, and maintainable systems.
+- 🛡️ **Core Focus:** Enterprise microservices and batch processing in **Java / Spring**, legacy system modernization, **Application Security (AppSec)** (CVE remediation, secret management, and **STRIDE** threat modeling), and event-driven messaging (**Kafka**).
+- 🤖 **AI & Developer Tooling:** Building custom CLIs, **MCP (Model Context Protocol)** servers in **Go**, and workflow automations powered by responsible AI practices.
+- 🧪 **Full Stack Labs:** Exploring **TypeScript, React, and Vite** through hands-on side projects to test architecture, performance, and security concepts end-to-end.
 
 <br>
+
+**🇧🇷 PT-BR:**
+Desenvolvedora de Software com base na Engenharia e foco principal em **Backend Java (Spring Boot)** e **Python**, construindo aplicações resilientes, seguras e escaláveis.
+- 🛡️ **Foco Atual:** Arquitetura de microsserviços e processos batch em **Java / Spring**, modernização de sistemas legados, **AppSec** (mitigação de CVEs, gestão de segredos e modelagem de ameaças **STRIDE**) e mensageria (**Kafka**).
+- 🤖 **Automação & IA:** Criação de ferramentas de linha de comando (CLI), servidores **MCP (Model Context Protocol)** em **Go** e automações inteligentes com uso responsável de IA.
+- 🧪 **Laboratórios Full Stack:** Exploração prática de **TypeScript, React e Vite** em projetos pessoais para aplicar conceitos de arquitetura e segurança de ponta a ponta.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Backend & Architecture**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,flask,go,nodejs,express" alt="Backend Stack" />
+</p>
+
+**Data, Messaging, DevOps & Security**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,kafka,docker,git,githubactions,linux" alt="Data and DevOps" />
+</p>
+
+**Frontend & Labs**
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,html,css" alt="Frontend Stack" />
+</p>
+
+---
+
+### 📌 Featured Projects | Projetos em Destaque
+
+- 🎮 **[Operação Doomsday](https://github.com/imagalhaess/operacao-doomsday)** — *TypeScript • Vite • WebRTC • AppSec (STRIDE)*
+  Gamified 8-bit MCU watch guide SPA featuring Web Audio chiptune synthesis, P2P co-op sync, offline PWA support, and frontend threat modeling (**STRIDE**).
+- ☕ **[Personal Julius API](https://github.com/imagalhaess/personal.julius.api)** — *Java • Spring Boot • REST API*
+  Backend API focused on financial organization, clean architecture, and automated testing best practices.
+- 📡 **[Kafka Basics](https://github.com/imagalhaess/kafka_basics)** & **[Observabilidade](https://github.com/imagalhaess/observabilidade)** — *Java • Spring • Kafka*
+  Hands-on labs exploring event-driven messaging, observability metrics, and distributed tracing in Java.
+- 🧠 **[MailMind AI](https://github.com/imagalhaess/mailmind_ai)** — *Python • AI Integration*
+  Smart email classification and workflow automation powered by AI.
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=imagalhaess&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imagalhaess&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>
-
-<br>
-
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Isa-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Isa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Isa-NodeJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Isa-Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="Isa-Flask" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-  <img align="center" alt="Isa-Express" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="Isa-PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Isa-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Isa-TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Isa-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Isa-Jupyter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="Isa-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Isa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Isa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-<br>
-
-## Let's connect:
-
-<div align="left"> 
-  <a href="https://wa.me/5538999679596" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-  <a href="mailto:magalhaes569@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/isabela-magalhaes-7bb588287/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
+  <img height="155em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=imagalhaess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="155em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imagalhaess&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
