@@ -59,12 +59,3 @@ Desenvolvedora de Software com base na Engenharia e foco principal em **Backend 
   Hands-on labs exploring event-driven messaging, observability metrics, and distributed tracing in Java.
 - 🧠 **[MailMind AI](https://github.com/imagalhaess/mailmind_ai)** — *Python • AI Integration*
   Smart email classification and workflow automation powered by AI.
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="155em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=imagalhaess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="155em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imagalhaess&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-</div>
